@@ -15,5 +15,5 @@ I'm a Software Engineer and Product Designer who currently works as a creative d
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphiechado&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphiechado&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=alphiechado&show_icons=true&include_all_commits=true&hide_border=true" alt="Alfred's Github Stat" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphiechado&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
 | ------------- | ------------- |
